@@ -1,0 +1,49 @@
+
+.image img{
+    height: 370px;
+    width: 200px;
+    border-radius: 4px;
+    margin-top: 50px;
+}
+.image{
+    display:flex;
+    justify-content:space-evenly;
+    gap:50px;
+   
+}
+.closet{
+    text-align: center;
+    margin-top: 20px;
+}
+.card{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card img{
+    height: 300px;
+}
+.back{
+    display: flex;
+    justify-content: space-evenly;
+   background: black;
+      
+}
+.back h1{
+color: antiquewhite;
+display: flex;
+justify-content: center;
+
+}
+.back p{
+    color: white;
+    margin: 15px;
+}
+.ab{
+    border-radius: 50%;
+    height: 214px;
+    width: 218px;
+}
+.cd{
+margin:60px;
+
+}
